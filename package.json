@@ -1,0 +1,15 @@
+{
+  "name": "tutorialbot",
+  "version": "1.0.0",
+  "main": "src/index",
+  "author": "ghost",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "glob": "^7.1.6",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
+}
